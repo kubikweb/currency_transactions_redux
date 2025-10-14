@@ -1,7 +1,7 @@
 {
   "name": "currency_transactions",
   "version": "0.1.0",
-  "homepage": "https://github.com/kubikweb/currency_transactions_redux",
+  "homepage": "https://kubikweb.github.io/currency_transactions_redux",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.25",
