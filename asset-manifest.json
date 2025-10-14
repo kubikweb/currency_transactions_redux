@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/kubikweb/currency_transactions_redux/static/css/main.d531cf64.css",
-    "main.js": "/kubikweb/currency_transactions_redux/static/js/main.5d60cfaf.js",
-    "index.html": "/kubikweb/currency_transactions_redux/index.html",
-    "main.d531cf64.css.map": "/kubikweb/currency_transactions_redux/static/css/main.d531cf64.css.map",
-    "main.5d60cfaf.js.map": "/kubikweb/currency_transactions_redux/static/js/main.5d60cfaf.js.map"
+    "main.css": "/currency_transactions_redux/static/css/main.d531cf64.css",
+    "main.js": "/currency_transactions_redux/static/js/main.5d60cfaf.js",
+    "index.html": "/currency_transactions_redux/index.html",
+    "main.d531cf64.css.map": "/currency_transactions_redux/static/css/main.d531cf64.css.map",
+    "main.5d60cfaf.js.map": "/currency_transactions_redux/static/js/main.5d60cfaf.js.map"
   },
   "entrypoints": [
     "static/css/main.d531cf64.css",
