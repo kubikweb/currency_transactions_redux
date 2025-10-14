@@ -2,7 +2,7 @@
 This app was my recruitment task.
 
 ## Usage
-To see demo, click <a href='http://kubikweb.usermd.net/currency_transactions/'>here.</a>
+To see demo, click <a href='https://kubikweb.github.io/currency_transactions_redux/'>here.</a>
 
 ## Used technologies
 I used React, Redux, Redux-Form, Hooks, JavaScript, HTML, CSS and FontAwesome.
